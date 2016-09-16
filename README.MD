@@ -8,7 +8,7 @@ In this paper, a novel approach to classifier ensemble creation is presented. Wh
 
 ## Preprint
 
-adsabs.harvard.edu/abs/2016arXiv160301716A
+http://adsabs.harvard.edu/abs/2016arXiv160301716A
 
 ## Datasets
 
